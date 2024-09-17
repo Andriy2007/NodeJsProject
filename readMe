@@ -1,0 +1,1 @@
+Зпуск проекту скриптом "watch:server": "nodemon --exec ts-node src/main.ts"
